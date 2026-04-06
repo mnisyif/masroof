@@ -1,0 +1,7 @@
+[project]
+name = "masroof"
+version = "0.1.0"
+description = "A lightweight, low-friction daily expense and income tracker."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
